@@ -14,6 +14,7 @@ For this section I created 2 bar charts
 
 <img width="423" alt="Screenshot 2023-08-09 at 12 20 10 AM" src="https://github.com/hmalhi95/matplotlib-challenge/assets/126418725/d82e81dd-cac6-43c8-85ba-e001f7a57707">
 
+
 As well as 2 pie charts
 
 <img width="294" alt="Screenshot 2023-08-09 at 12 20 52 AM" src="https://github.com/hmalhi95/matplotlib-challenge/assets/126418725/4e1dc839-ae9a-4190-8309-5f9fee2e86ce">
