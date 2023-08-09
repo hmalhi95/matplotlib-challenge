@@ -8,12 +8,16 @@ Next I created a data frame for summary statistics
 <img width="886" alt="Screenshot 2023-08-09 at 12 18 58 AM" src="https://github.com/hmalhi95/matplotlib-challenge/assets/126418725/3abaa9b2-eb2a-4363-a184-92f4dbb1d14f">
 
 ## Create Bar Charts and Pie Charts
-For this section I created 2 bar charts
+### For this section I created 2 bar charts
+
 <img width="424" alt="Screenshot 2023-08-09 at 12 20 04 AM" src="https://github.com/hmalhi95/matplotlib-challenge/assets/126418725/f05565af-10d9-462b-bbde-0348f76666dd">
+
 <img width="423" alt="Screenshot 2023-08-09 at 12 20 10 AM" src="https://github.com/hmalhi95/matplotlib-challenge/assets/126418725/d82e81dd-cac6-43c8-85ba-e001f7a57707">
 
-As well as 2 pie charts
+### As well as 2 pie charts
+
 <img width="294" alt="Screenshot 2023-08-09 at 12 20 52 AM" src="https://github.com/hmalhi95/matplotlib-challenge/assets/126418725/4e1dc839-ae9a-4190-8309-5f9fee2e86ce">
+
 <img width="302" alt="Screenshot 2023-08-09 at 12 21 04 AM" src="https://github.com/hmalhi95/matplotlib-challenge/assets/126418725/998cc63b-d177-459a-97a8-83cc11de652b">
 
 ## Calculate Quartiles, Find Outliers, and Create a Box Plot
